@@ -1,0 +1,10 @@
+/target
+**/*.rs.bk
+*.tmp
+Cargo.lock
+.DS_Store
+*.glb
+*.obj
+*.log
+logs/
+!Cargo.toml
